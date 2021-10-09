@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pratibha-pradhan-portfolio-2021/static/css/main.a617e044.chunk.css",
+    "main.js": "/pratibha-pradhan-portfolio-2021/static/js/main.eecd12ed.chunk.js",
+    "main.js.map": "/pratibha-pradhan-portfolio-2021/static/js/main.eecd12ed.chunk.js.map",
+    "runtime-main.js": "/pratibha-pradhan-portfolio-2021/static/js/runtime-main.322cf808.js",
+    "runtime-main.js.map": "/pratibha-pradhan-portfolio-2021/static/js/runtime-main.322cf808.js.map",
+    "static/js/2.edccdcd6.chunk.js": "/pratibha-pradhan-portfolio-2021/static/js/2.edccdcd6.chunk.js",
+    "static/js/2.edccdcd6.chunk.js.map": "/pratibha-pradhan-portfolio-2021/static/js/2.edccdcd6.chunk.js.map",
+    "static/js/3.fcafa1a9.chunk.js": "/pratibha-pradhan-portfolio-2021/static/js/3.fcafa1a9.chunk.js",
+    "static/js/3.fcafa1a9.chunk.js.map": "/pratibha-pradhan-portfolio-2021/static/js/3.fcafa1a9.chunk.js.map",
+    "index.html": "/pratibha-pradhan-portfolio-2021/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/pratibha-pradhan-portfolio-2021/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.edccdcd6.chunk.js.LICENSE.txt": "/pratibha-pradhan-portfolio-2021/static/js/2.edccdcd6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pratibha-pradhan-portfolio-2021/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.322cf808.js",
+    "static/js/2.edccdcd6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.eecd12ed.chunk.js"
+  ]
+}
