@@ -1,10 +1,10 @@
 
 .header-div{
-    padding-left: 640px;
+    padding-left: 40px;
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: darkred;
+    background-color: rgb(165, 50, 50);
     padding-top: 10px;
     color: whitesmoke;
     height: 35px;
@@ -15,6 +15,18 @@
     border-right: darkred;
     border-top: darkred;
 }
+
+.space-house-header{
+    padding-left: 600px;
+}
+
+.space-house-header:hover{
+    color: white;
+}
+
+/* .header-component{
+    padding-bottom: 40px;
+} */
 
 .header-component:hover{
     cursor: pointer;
@@ -27,4 +39,9 @@
 
 h1{
     color: black;
+}
+
+.house-image{
+    width: 25px;
+    height: 25px;
 }
