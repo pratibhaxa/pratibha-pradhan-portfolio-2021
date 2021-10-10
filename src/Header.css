@@ -1,6 +1,30 @@
-header{
-    background-color: brown;
-    border-style: none;
-    border-radius: 4px;
-    
+
+.header-div{
+    padding-left: 640px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: darkred;
+    padding-top: 10px;
+    color: whitesmoke;
+    height: 35px;
+    border-bottom: lightcoral;
+    border-style: solid;
+    border-width: 3.5px;
+    border-left: darkred;
+    border-right: darkred;
+    border-top: darkred;
+}
+
+.header-component:hover{
+    cursor: pointer;
+    color: black;
+}
+
+.space{
+    padding-left: 100px;
+}
+
+h1{
+    color: black;
 }
