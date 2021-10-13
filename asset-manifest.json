@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/pratibha-pradhan-portfolio-2021/static/css/main.0124465b.chunk.css",
-    "main.js": "/pratibha-pradhan-portfolio-2021/static/js/main.f033c139.chunk.js",
-    "main.js.map": "/pratibha-pradhan-portfolio-2021/static/js/main.f033c139.chunk.js.map",
-    "runtime-main.js": "/pratibha-pradhan-portfolio-2021/static/js/runtime-main.b927e681.js",
-    "runtime-main.js.map": "/pratibha-pradhan-portfolio-2021/static/js/runtime-main.b927e681.js.map",
-    "static/js/2.a03c8bf2.chunk.js": "/pratibha-pradhan-portfolio-2021/static/js/2.a03c8bf2.chunk.js",
-    "static/js/2.a03c8bf2.chunk.js.map": "/pratibha-pradhan-portfolio-2021/static/js/2.a03c8bf2.chunk.js.map",
-    "static/js/3.c9573de0.chunk.js": "/pratibha-pradhan-portfolio-2021/static/js/3.c9573de0.chunk.js",
-    "static/js/3.c9573de0.chunk.js.map": "/pratibha-pradhan-portfolio-2021/static/js/3.c9573de0.chunk.js.map",
+    "main.css": "/pratibha-pradhan-portfolio-2021/static/css/main.a963da5c.chunk.css",
+    "main.js": "/pratibha-pradhan-portfolio-2021/static/js/main.08688e60.chunk.js",
+    "main.js.map": "/pratibha-pradhan-portfolio-2021/static/js/main.08688e60.chunk.js.map",
+    "runtime-main.js": "/pratibha-pradhan-portfolio-2021/static/js/runtime-main.8c1c408a.js",
+    "runtime-main.js.map": "/pratibha-pradhan-portfolio-2021/static/js/runtime-main.8c1c408a.js.map",
+    "static/js/2.8ccfb569.chunk.js": "/pratibha-pradhan-portfolio-2021/static/js/2.8ccfb569.chunk.js",
+    "static/js/2.8ccfb569.chunk.js.map": "/pratibha-pradhan-portfolio-2021/static/js/2.8ccfb569.chunk.js.map",
+    "static/js/3.ad9867fe.chunk.js": "/pratibha-pradhan-portfolio-2021/static/js/3.ad9867fe.chunk.js",
+    "static/js/3.ad9867fe.chunk.js.map": "/pratibha-pradhan-portfolio-2021/static/js/3.ad9867fe.chunk.js.map",
     "index.html": "/pratibha-pradhan-portfolio-2021/index.html",
-    "static/css/main.0124465b.chunk.css.map": "/pratibha-pradhan-portfolio-2021/static/css/main.0124465b.chunk.css.map",
-    "static/js/2.a03c8bf2.chunk.js.LICENSE.txt": "/pratibha-pradhan-portfolio-2021/static/js/2.a03c8bf2.chunk.js.LICENSE.txt",
-    "static/media/house.9fdc0815.png": "/pratibha-pradhan-portfolio-2021/static/media/house.9fdc0815.png"
+    "static/css/main.a963da5c.chunk.css.map": "/pratibha-pradhan-portfolio-2021/static/css/main.a963da5c.chunk.css.map",
+    "static/js/2.8ccfb569.chunk.js.LICENSE.txt": "/pratibha-pradhan-portfolio-2021/static/js/2.8ccfb569.chunk.js.LICENSE.txt",
+    "static/media/house.9fdc0815.png": "/pratibha-pradhan-portfolio-2021/static/media/house.9fdc0815.png",
+    "static/media/Home.css": "/pratibha-pradhan-portfolio-2021/static/media/image-from-rawpixel-id-2370668-original.5cf2d4ff.jpg",
+    "static/media/profile.23618745.jpg": "/pratibha-pradhan-portfolio-2021/static/media/profile.23618745.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b927e681.js",
-    "static/js/2.a03c8bf2.chunk.js",
-    "static/css/main.0124465b.chunk.css",
-    "static/js/main.f033c139.chunk.js"
+    "static/js/runtime-main.8c1c408a.js",
+    "static/js/2.8ccfb569.chunk.js",
+    "static/css/main.a963da5c.chunk.css",
+    "static/js/main.08688e60.chunk.js"
   ]
 }
