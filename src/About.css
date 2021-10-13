@@ -1,0 +1,24 @@
+table{
+    padding-left: 100px;
+}
+
+.about-table-left{
+    padding-left: 50px;
+    background-color: burlywood;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-style: solid;
+    border-color: darkred;
+    border-width: 7px;
+    padding-right: 50px;
+    margin-right: 70px;
+    background-image: url('');
+}
+
+.about-table-right .about-table-image{
+    width: 400px;
+    height: 470px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+}

@@ -1,37 +1,39 @@
 
 .header-div{
     padding-left: 40px;
+    display: flex;
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: rgb(165, 50, 50);
+    background-color: rgb(27, 43, 75);
+    /* background-color: rgb(165, 50, 50); */
     padding-top: 10px;
     color: whitesmoke;
     height: 35px;
     border-bottom: lightcoral;
     border-style: solid;
     border-width: 3.5px;
-    border-left: darkred;
-    border-right: darkred;
-    border-top: darkred;
+    border-left: rgb(27, 43, 75);
+    border-right: rgb(27, 43, 75);
+    border-top: rgb(27, 43, 75);
 }
 
 .space-house-header{
     padding-left: 600px;
 }
 
-.space-house-header:hover{
+/* .space-house-header:hover{
     color: white;
-}
+} */
 
 /* .header-component{
     padding-bottom: 40px;
 } */
 
-.header-component:hover{
+/* .header-component:hover{
     cursor: pointer;
     color: black;
-}
+} */
 
 .space{
     padding-left: 100px;
@@ -44,4 +46,13 @@ h1{
 .house-image{
     width: 25px;
     height: 25px;
+}
+
+.header-link{
+    text-decoration: none;
+    color: white;
+}
+
+.header-link:hover{
+    color: rgb(165, 50, 50);
 }
